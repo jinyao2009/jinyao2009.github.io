@@ -229,10 +229,10 @@ body {
   margin-left: auto;
   margin-right: auto;
   padding-left: 8.4%;
-  font-family: ETBembo, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+  font-family: "PT Serif", ETBembo, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
   padding-bottom: 400px;
-  background-color: #fffff8;
-  color: #111;
+  background-color: #ff;
+  color: #515151;
   max-width: 1400px; }
 
 @media screen and (min-width: 800px) {
