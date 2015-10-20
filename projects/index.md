@@ -2,7 +2,7 @@
 layout: page
 title: projects
 ---
-{% newthought 'List'%} of all previous projects
+List of all projects
 
 ## Project Name1
 
