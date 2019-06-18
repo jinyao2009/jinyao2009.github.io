@@ -4,14 +4,7 @@ title: projects
 ---
 List of all projects
 
-## Project Name1
+## Project Name
 
 some discription
-
-
-## Project Name2
-
-some discription
-
-
 

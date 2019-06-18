@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My First Post!"
+title:  "First Post!"
 date:   2015-10-16
 categories: Web development
 ---
