@@ -28,4 +28,3 @@ transfer:
   settings: -av
   source: _site/
   destination: ~/Git/jinyao2009.github.com/
-theme: jekyll-theme-minimal
